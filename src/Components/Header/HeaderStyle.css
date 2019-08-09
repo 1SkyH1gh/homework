@@ -1,0 +1,77 @@
+.containerHeader{
+    width:100%;
+    display:flex;
+    margin:0 auto;
+    background:#404040;
+    color: white;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.buttonGroup{
+    height:70px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+
+
+
+}
+.buttonHeader{
+    margin-left: 6%;
+}
+.SearchForm{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.InputSearch{
+
+}
+
+.AvatarMini{
+    display: flex;
+    height:86px;
+    width:100px;
+position: absolute;
+    margin-left:80%;
+    margin-top: 1.5%;
+    border-radius: 40px;
+
+
+}
+.Login{
+    display:none;
+
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.AccountTop{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-right: 4%;
+}
+.popoverAvatarAndSettings{
+    width:150px;
+   color:white;
+    border:1px solid yellow;
+    border-right: 15px;
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}

@@ -1,0 +1,14 @@
+.carousel-slider{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+
+
+}
+.carouselSlide{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    width:100%;
+    background: rebeccapurple;
+}
